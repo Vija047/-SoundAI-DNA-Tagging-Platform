@@ -10,7 +10,7 @@ This project is an AI-powered platform for analyzing audio files and generating 
 - **Modern UI:** Built with React, Tailwind CSS, and Framer Motion for smooth animations and a beautiful user experience.
 
 ## Demo
-- **Live Demo:** [https://soundai-dna.vercel.app/](https://soundai-dna.vercel.app/)
+- **Live Demo:** [https://soundai-dna.vercel.app/](https://sound-ai-dna-tagging-platform.vercel.app/)
 - **Demo Video:** [Watch on YouTube](https://youtu.be/your-demo-video-link)
 
 ## Getting Started
